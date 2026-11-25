@@ -1,0 +1,12 @@
+{
+  "name": "rana-medical-clinic1-api",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Rana Medical Hospital demo API for clinic1 (Vercel + Supabase Postgres)",
+  "scripts": {
+    "dev": "node local-server.js"
+  },
+  "dependencies": {
+    "pg": "^8.16.3"
+  }
+}
